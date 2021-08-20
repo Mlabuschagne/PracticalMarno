@@ -8,7 +8,7 @@ namespace PracticalMarno
         {
             Console.WriteLine("This is a project!");
             
-            Console.WriteLine(101"Testing");
+            Console.WriteLine("101Testing");
         }
     }
 }
